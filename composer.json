@@ -1,5 +1,5 @@
 {
-    "name": "askedio/laravelcp",
+    "name": "tricore-arpit/normal",
     "description": "A Modular Laravel Control Panel.",
     "keywords": ["control panel", "laravel"],
     "license": "MIT",
@@ -10,7 +10,7 @@
      },
     "autoload": {
         "psr-4": {
-            "Askedio\\Laravelcp\\": "src/"
+            "Arpit\\Normal\\": "src/"
         }
     }
 }
